@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndrFras34
-- 👀 I’m interested in music, Car ECU's fashion, computers and sports(mainly soccer)
+- 👀 I’m interested in music, Car ECU's, fashion, computers and sports(mainly soccer)
 - 🌱 I’m currently learning different sorting algorithms and refining my functional programming language skills.
 - 💞️ I’m looking to collaborate on innovative projects that have something to do with my interests. 
 - 📫 How to reach me: @andy.fraser20@gmail.com
